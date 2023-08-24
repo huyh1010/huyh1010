@@ -11,13 +11,20 @@
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/huy-tien-huynh-4b0b3021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huy-tien-huynh-4b0b3021b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/huy.huynh.1297943/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/huy.huynh.1297943/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/huyh1010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/huyh1010/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/huy-tien-huynh-4b0b3021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huy-tien-huynh-4b0b3021b/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/huy.huynh.1297943/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/huy.huynh.1297943/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/huyh1010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/huyh1010/" height="30" width="40" /></a>
 
 ### Checkout my recent project:
 
-![Getting Started][<img src="./images/project.png">](https://hometech-space-huyhuynh.netlify.app/),
+#### HomeTech-Space
+
+[<img src="./images/project.png">](https://hometech-space-huyhuynh.netlify.app/)
+
+#### Check out the Source Code here!
+
+- [Front End](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
+- [Back End](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
 
 ### Languages and Tools:
 
