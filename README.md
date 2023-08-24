@@ -43,7 +43,7 @@
 
 #### [CONnect Social Media App](https://connect-huyhuynh1010.netlify.app)
 
-- [Project source](https://github.com/huyh1010/HomeTech-Space-FE)
+- [Project source](https://github.com/huyh1010/CONnect-social-media)
 - Project Description : Developed a front-end social network website that allows individuals to share information, interact, and make connections with other users.
 - Core Features: user sign in, user registration, create and manage social post, create comment, send friend request, updating friend request, user - profile modification, responsive.
   Technique: ReactJS, Material UI, Redux Toolkit, Axios, React Hook Form, React Router.
